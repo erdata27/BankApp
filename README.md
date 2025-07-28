@@ -24,7 +24,6 @@ This project demonstrates a **production-ready**, **cloud-native** microservices
 
 Each microservice includes:
 - Spring Boot REST APIs
-- PostgreSQL/MySQL Database integration
 - Docker support
 - Kafka-based messaging
 
